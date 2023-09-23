@@ -1,0 +1,13 @@
+
+contructor
+contructor _init_():
+class perro()
+def __init__(self , nombre, tamano , peso , pelaje):
+    self.name= Name
+
+
+    Bulldog =perro
+    chichuahua=   (princesa, mediana, 144, corto)
+
+    #super classe = ala que tiene hijos 
+    #subclase es la clase que hereda de la super clase por ender es su hijo
